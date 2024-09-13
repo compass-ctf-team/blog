@@ -17,18 +17,18 @@ We're proud of our achievements in various competitions. Here are the selected a
 
 ### 2023国赛全国总决赛
 
-![img](assets/ciscn2023.png)
-![img](assets/ciscn2023_.jpeg)
+![](assets/ciscn2023.png)
+![](assets/ciscn2023_.jpeg)
 
 ### 2023国赛华南半决赛
 
-![img](assets/national-competition-semi-final.jpg)
-![img](assets/ciscn2023_half.jpg)
+![](assets/national-competition-semi-final.jpg)
+![](assets/ciscn2023_half.jpg)
 
 ### 第二届广东大学生网络安全攻防大赛-决赛
 
-![img](assets/gdss2022jsxx.png)
-![img](assets/gdss2022js.png)
+![](assets/gdss2022jsxx.png)
+![](assets/gdss2022js.png)
 
 ## 2022
 
@@ -52,53 +52,53 @@ We're proud of our achievements in various competitions. Here are the selected a
 | KnightCTF 2022    | Jan 20, 2022   | #140 |
 
 ### 春秋杯 2022 冬季赛
-![img](assets/cqb2022.png)
+![](assets/cqb2022.png)
 
 ### 网鼎杯 2022
-![img](assets/wdb2022h.png)
-![img](assets/2022wdbs1.jpg)
+![](assets/wdb2022h.png)
+![](assets/2022wdbs1.jpg)
 
 ### 巅峰极客 2022
 
-![img](assets/dfjkks2022.jpg)
-![img](assets/dfjk2022q.jpg)
+![](assets/dfjkks2022.jpg)
+![](assets/dfjk2022q.jpg)
 
 ### 强网杯 2022
 
-![img](assets/qwb2022p.png)
-![img](assets/qwb2022.png)
+![](assets/qwb2022p.png)
+![](assets/qwb2022.png)
 
 ### DiceCTF 2022
 
-![img](assets/dice2022.jpg)
+![](assets/dice2022.jpg)
 
 ### 广东省赛初赛 2022
 
-![img](assets/GDSS2022.png)
+![](assets/GDSS2022.png)
 
 ### 虎符CTF 2022
 
-![img](assets/HFCTF2022.png)
+![](assets/HFCTF2022.png)
 
 ### KnightCTF 2022
 
-![img](assets/KnightCTF.png)
+![](assets/KnightCTF.png)
 
 ### VU CYBERTHON 2022
 
-![img](assets/VU_CTF_1.png)
+![](assets/VU_CTF_1.png)
 
-![img](assets/VU_CTF_2.png)
+![](assets/VU_CTF_2.png)
 
 ### TQLCTF 2022
 
-![img](assets/TQL_CTF_1.png)
+![](assets/TQL_CTF_1.png)
 
 ### CODEGATE 2022
 
-![img](assets/CODEGATE_1.png)
+![](assets/CODEGATE_1.png)
 
 ### ECTF 2022
 
-![img](assets/ECTF_1.png)
+![](assets/ECTF_1.png)
 

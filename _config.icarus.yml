@@ -97,7 +97,7 @@ head:
         # E.g., name=theme-color;content=#123456 => <meta name="theme-color" content="#123456">
         - ''
     # URL or path to the website's RSS atom.xml
-    rss: 
+    rss: /index.xml
 # Page top navigation bar configurations
 navbar:
     # Navigation menu items
@@ -192,7 +192,7 @@ widgets:
                 url: https://github.com/compass-ctf-team
             RSS:
                 icon: fas fa-rss
-                url: /
+                url: /index.xml
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -287,7 +287,7 @@ plugins:
     katex: false
     # Enable the MathJax math typesetting support
     # https://www.mathjax.org/
-    mathjax: false
+    mathjax: true
     # Enable the Outdated Browser plugin
     # http://outdatedbrowser.com/
     outdated_browser: false

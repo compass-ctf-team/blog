@@ -69,7 +69,14 @@ math:
   mathjax:
     src: custom_mathjax_source
     config:
-      # MathJax config
+
+plugins:
+  hexo-generator-feed
+#Feed Atom
+feed:
+  type: atom
+  path: index.xml
+  limit: 20     # MathJax config
 
 deploy:
   type: git
