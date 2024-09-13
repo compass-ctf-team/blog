@@ -4,7 +4,7 @@ date: 2021-07-15
 sticky: 1
 ---
 
-COMPASS CTF is a CTF team affiliated to the [COMPASS Lab](http://compass.sustech.edu.cn/) from Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn)).
+COMPASS CTF is a team affiliated to [COMPASS Lab](http://compass.sustech.edu.cn/) from Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn)).
 
 ![](/img/banner.png)  
 
