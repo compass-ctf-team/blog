@@ -106,7 +106,6 @@ navbar:
         荣誉: /award
         归档: /archives
         分类: /categories
-        标签: /tags
 # Page footer configurations
 footer:
     # copyright: © 2024
@@ -205,10 +204,10 @@ widgets:
         # Maximum level of headings to show (1-6)
         depth: 3
     # Categories widget configurations
-    -
+    # -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: categories
+        # position: left
+        # type: categories
     # Recent posts widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar

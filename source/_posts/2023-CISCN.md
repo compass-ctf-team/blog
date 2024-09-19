@@ -1,5 +1,5 @@
 ---
-title: CISCN 2023 WriteUp by HED
+title: 2023 CISCN WriteUp by HED
 tags: ['Writeup', 'CISCN']
 categories: Writeup
 date: 2023-05-29 00:00:00

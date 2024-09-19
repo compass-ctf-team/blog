@@ -1,5 +1,5 @@
 ---
-title: 2022巅峰极客决赛
+title: 2022 巅峰极客决赛
 tags: ['Writeup', 'DFJK']
 categories: Writeup
 date: 2022-09-22 00:00:00

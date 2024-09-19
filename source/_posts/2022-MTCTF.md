@@ -1,5 +1,5 @@
 ---
-title: 2022美团网络安全高校挑战赛-HED-WriteUp
+title: 2022 美团网络安全高校挑战赛 HED WriteUp
 tags: ['Writeup', 'MTCTF']
 categories: Writeup
 date: 2022-09-18 00:00:00

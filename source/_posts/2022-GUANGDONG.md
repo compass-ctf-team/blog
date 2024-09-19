@@ -6,9 +6,9 @@ date: 2023-02-21 00:00:00
 toc: true
 ---
 
->**(第二届广东大学生网络安全攻防大赛)**  
->**【HED CTF / COMPASS CTF】 WriteUp**  
->**Rank:9** （total 504） Solve:8 Pts:1947
+**(第二届广东大学生网络安全攻防大赛)**  
+**【HED CTF / COMPASS CTF】 WriteUp**  
+**Rank:9** （total 504） Solve:8 Pts:1947
 
 <!--more-->
 

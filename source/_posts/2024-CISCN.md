@@ -1,12 +1,12 @@
 ---
-title: CISCN 2024 WriteUp by COMPASS
+title: 2024 CISCN WriteUp by COMPASS
 tags: ['Writeup', 'CISCN']
 categories: Writeup
 date: 2024-05-19 00:00:00
 toc: true
 ---
 
-> 今年frank因为种种原因未能参加，虽然成绩不如往年但还是挺满意的 ~~今年py的越来越多了我***~~
+今年frank因为种种原因未能参加，虽然成绩不如往年但还是挺满意的 ~~今年py的越来越多了我***~~
 
 <!--more-->
 
@@ -354,11 +354,11 @@ int main()
 
 flag: `flag{188cba3a5c0fbb2250b5a2e590c391ce}`
 
-﻿### whereThel1b
+### whereThel1b
 
 经过观察，不难发现，只改变输入的某一位的情况下，输出也只会有其中的一两位发生变化：
 
-```
+```python
 >>> whereThel1b.trytry(b'123456789')
 [75, 88, 79, 122, 74, 76, 82, 52, 66, 126, 96, 48]
 >>> whereThel1b.trytry(b'12345a789')
@@ -369,7 +369,7 @@ flag: `flag{188cba3a5c0fbb2250b5a2e590c391ce}`
 ```
 所以我们可以有理有据地猜测，在输入长度一定的情况下，输入中的每一位是互不影响的。并且可以注意到：
 
-```
+```python
 >>> whereThel1b.trytry(b'12a45a789fsdjkvjklsjeoru203uflksdj')
 [85, 100, 80, 106, 94, 100, 73, 113, 93, 100, 113, 16, 87, 78, 70, 121, 105, 93, 114, 21, 113, 79, 89, 85, 106, 33, 118, 66, 102, 24, 95, 47, 110, 108, 87, 97, 112, 112, 114, 126, 66, 45, 82, 74, 11
 3, 100, 30, 61]
